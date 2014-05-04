@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="shopping-cart-15-icon" d="M227.682,381c0,14.852-12.039,26.891-26.891,26.891S173.9,395.852,173.9,381
+	s12.039-26.891,26.891-26.891S227.682,366.148,227.682,381z M389.609,106.109l-59.18,188.166H159.338L94.416,144.609H50.418
+	l82.914,189.666h0.275h226.07l59.178-188.166h29.98l12.746-40H389.609z M289.676,354.109c-14.852,0-26.891,12.039-26.891,26.891
+	s12.039,26.891,26.891,26.891s26.891-12.039,26.891-26.891S304.527,354.109,289.676,354.109z M242.261,104.109
+	c-42.963,0-77.792,34.828-77.792,77.791s34.829,77.791,77.792,77.791s77.792-34.828,77.792-77.791S285.224,104.109,242.261,104.109z
+	 M229.025,223.801l-36.752-36.762l15.648-15.652l21.104,21.109l48.721-48.721l15.656,15.645L229.025,223.801z"/>
+</svg>

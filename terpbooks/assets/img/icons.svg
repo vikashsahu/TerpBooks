@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="280.41688"
+     inkscape:cy="835.61239"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3073"
+       inkscape:export-filename="C:\Users\Vikash-Dell\Documents\GitHub\TerpBooks\terpbooks\assets\img\search.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.63646908,0,0,0.63646908,3.4719943,78.435355)">
+      <path
+         transform="matrix(1.2406596,0,0,1.2406596,-225.6172,-2.298272)"
+         d="m 342.28935,132.1733 c -5.9481,10.30243 -61.69254,42.48649 -73.58876,42.48649 -11.89622,0 -67.64065,-32.18407 -73.58876,-42.48649 -5.94811,-10.30243 -5.94811,-74.67056 0,-84.972987 5.94811,-10.302427 61.69254,-42.4864916 73.58876,-42.4864916 11.89622,1e-7 67.64066,32.1840656 73.58877,42.4864926 5.9481,10.302427 5.9481,74.670556 -10e-6,84.972986 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.14"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="73.58876"
+         sodipodi:r1="84.972984"
+         sodipodi:cy="89.686806"
+         sodipodi:cx="268.70059"
+         sodipodi:sides="6"
+         id="path2996"
+         style="fill:#ff5555;fill-opacity:0.76190479;fill-rule:nonzero;stroke:#000000;stroke-width:2.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+      <path
+         d="m 168.24826,152.48204 -26.87404,-26.8734 c 5.20882,-8.20854 8.229,-17.93534 8.229,-28.355493 0,-29.266624 -23.81012,-53.076743 -53.077382,-53.076743 -29.266632,0 -53.076751,23.810119 -53.076751,53.076743 0,29.266633 23.809806,53.076753 53.076751,53.076753 9.903042,0 19.179462,-2.72872 27.122052,-7.47017 l 27.11102,27.11165 c 11.56798,11.56767 29.06709,-5.9116 17.48935,-17.48934 z M 59.907059,97.253147 c 0,-20.191954 16.426501,-36.619712 36.619091,-36.619712 20.19259,0 36.62003,16.427443 36.62003,36.619712 0,20.192283 -16.42744,36.619723 -36.62003,36.619723 -20.19259,0 -36.619091,-16.42776 -36.619091,-36.619723 z m 10.846615,-9.523788 c 10.718839,-24.83237 46.790606,-21.9532 53.582516,4.04808 -13.68518,-16.06298 -37.762816,-17.792435 -53.582516,-4.04808 z"
+         id="magnifier-4-icon"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3081"
+       transform="matrix(0.63646908,0,0,0.63646908,153.55833,78.435358)"
+       inkscape:export-filename="C:\Users\Vikash-Dell\Documents\GitHub\TerpBooks\terpbooks\assets\img\cart.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(1.2406596,0,0,1.2406596,187.23994,-2.298272)"
+         d="m 342.28935,132.1733 c -5.9481,10.30243 -61.69254,42.48649 -73.58876,42.48649 -11.89622,0 -67.64065,-32.18407 -73.58876,-42.48649 -5.94811,-10.30243 -5.94811,-74.67056 0,-84.972987 5.94811,-10.302427 61.69254,-42.4864916 73.58876,-42.4864916 11.89622,1e-7 67.64066,32.1840656 73.58877,42.4864926 5.9481,10.302427 5.9481,74.670556 -10e-6,84.972986 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.14"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="73.58876"
+         sodipodi:r1="84.972984"
+         sodipodi:cy="89.686806"
+         sodipodi:cx="268.70059"
+         sodipodi:sides="6"
+         id="path3050"
+         style="fill:#ff5555;fill-opacity:0.76190479;fill-rule:nonzero;stroke:#000000;stroke-width:2.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+      <path
+         d="m 516.44239,164.11998 c 0,5.60187 -4.32094,10.14274 -9.65151,10.14274 -5.33055,0 -9.6515,-4.54087 -9.6515,-10.14274 0,-5.60187 4.32095,-10.14273 9.6515,-10.14273 5.33057,0 9.65151,4.54086 9.65151,10.14273 z M 574.55997,60.436687 553.31954,131.40907 h -61.40663 l -23.3013,-56.450963 h -15.79143 l 29.75886,71.538153 h 0.0987 81.1393 l 21.23971,-70.972383 h 10.76018 l 4.5747,-15.08719 H 574.56 z m -35.86716,93.540563 c -5.33057,0 -9.65152,4.54086 -9.65152,10.14273 0,5.60187 4.32095,10.14274 9.65152,10.14274 5.33055,0 9.65149,-4.54087 9.65149,-10.14274 0,-5.60187 -4.32129,-10.14273 -9.65149,-10.14273 z M 521.67498,59.682327 c -15.41996,0 -27.9205,13.13641 -27.9205,29.34119 0,16.204763 12.50054,29.341173 27.9205,29.341173 15.41994,0 27.92049,-13.13641 27.92049,-29.341173 0,-16.20478 -12.50055,-29.34119 -27.92049,-29.34119 z m -4.75057,45.145383 -13.19074,-13.865873 5.61626,-5.90361 7.57448,7.96188 17.48657,-18.37657 5.61913,5.90098 -23.1057,24.283193 z"
+         id="shopping-cart-15-icon"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3077"
+       transform="matrix(0.63646908,0,0,0.63646908,78.255498,78.435358)"
+       inkscape:export-filename="C:\Users\Vikash-Dell\Documents\GitHub\TerpBooks\terpbooks\assets\img\shield.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="star"
+         style="fill:#ff5555;fill-opacity:0.76190479;fill-rule:nonzero;stroke:#000000;stroke-width:2.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3048"
+         sodipodi:sides="6"
+         sodipodi:cx="268.70059"
+         sodipodi:cy="89.686806"
+         sodipodi:r1="84.972984"
+         sodipodi:r2="73.58876"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="true"
+         inkscape:rounded="0.14"
+         inkscape:randomized="0"
+         d="m 342.28935,132.1733 c -5.9481,10.30243 -61.69254,42.48649 -73.58876,42.48649 -11.89622,0 -67.64065,-32.18407 -73.58876,-42.48649 -5.94811,-10.30243 -5.94811,-74.67056 0,-84.972987 5.94811,-10.302427 61.69254,-42.4864916 73.58876,-42.4864916 11.89622,1e-7 67.64066,32.1840656 73.58877,42.4864926 5.9481,10.302427 5.9481,74.670556 -10e-6,84.972986 z"
+         transform="matrix(1.2406596,0,0,1.2406596,-19.902914,-2.298272)" />
+      <path
+         d="m 313.46306,60.889656 c 16.33328,10.69635 35.04175,14.87789 49.88058,16.35826 -3.87209,32.221814 -23.38621,62.116314 -49.88058,80.808164 -26.45508,-18.66367 -46.00363,-48.54282 -49.88058,-80.808164 14.83883,-1.48037 33.5473,-5.66222 49.88058,-16.35826 m 0,-16.41713 c -17.8785,16.09901 -43.52168,20.97816 -64.5,20.97816 0,46.131264 29.09141,87.043674 64.5,108.021834 35.40859,-20.97816 64.5,-61.89057 64.5,-108.021834 -20.97832,0 -46.62185,-4.87915 -64.5,-20.97816 z m 38.00528,40.65191 c -12.0349,-2.07997 -25.40744,-5.94872 -38.00528,-12.9357 -12.59749,6.98698 -25.97003,10.85573 -38.00528,12.9357 5.20799,23.804254 19.43484,45.323454 38.00528,60.617464 18.57183,-15.29495 32.79729,-36.81447 38.00528,-60.617464 z"
+         id="shield-3-icon"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -49,6 +49,30 @@
     -moz-border-radius-bottomright: 0;
 }
 
+footer p {
+  color: #ff7373;
+}
+
+#footer_wrap {
+  background: #ff7373;
+  padding: 10px 10px;
+
+}
+
+#footer_hover_effect li > a:hover {
+    color: #fff;
+}
+
+#footer_hover_effect li.active > a {
+    background-color: #ff9640;
+    color: #fff;
+}
+
+#footer_hover_effect li.active > a:hover {
+    color: #006363;
+}
+
+
 /* Banner styles */
 
 .banner {
